@@ -1,4 +1,4 @@
-# Tuffu Development - My Personal Portfolio ![dev](https://github.com/TufailKhanDeveloper/tuffudevelopment.vercel.app/actions/workflows/dev.yml/badge.svg) ![master](https://github.com/TufailKhanDeveloper/tuffudevelopment.vercel.app/actions/workflows/master.yml/badge.svg)
+# Tuffu Development ![dev](https://github.com/nuIIpointerexception/www.seekvisualartist.com/actions/workflows/dev.yml/badge.svg) ![master](https://github.com/nuIIpointerexception/www.seekvisualartist.com/actions/workflows/master.yml/badge.svg)
 
 It's my first portfolio website, crafted using Next.js, React, and Tailwind CSS.
 
