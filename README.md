@@ -13,7 +13,7 @@ Check it out [here](https://tuffudevelopment.vercel.com/)
 <div>
     <img src='./.github/assets/1.png' width='1819' alt="home section">
     <br>
-    <img src='./.github/assets/2.png' width='1821' alt="work section">
+    <img src='./.github/assets/2.png' width='1821' alt="about section">
     <br>
     <img src='./.github/assets/3.png' width='1817' alt="tools section">
       <br>
