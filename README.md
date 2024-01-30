@@ -1,8 +1,8 @@
 # Portfolio v5 ![dev](https://github.com/TufailKhanDeveloper/www.tuffudevelopment.vercel.com/actions/workflows/dev.yml/badge.svg) ![master](https://github.com/TufailKhanDeveloper/www.tuffudevelopment.vercel.com/actions/workflows/master.yml/badge.svg)
 
-This is the fifth iteration of my portfolio website. It is built with Next.js, React and Tailwind CSS.
+This marks the fifth iteration of my portfolio website, crafted using Next.js, React, and Tailwind CSS.
 
-My goal was to try out a simplistic glass-morphism-like design and learn more about React and Next.js.
+It serves as my portfolio.
 
 Check it out [here](https://tuffudevelopment.vercel.com/)
 
@@ -15,7 +15,9 @@ Check it out [here](https://tuffudevelopment.vercel.com/)
     <br>
     <img src='./.github/assets/2.png' width='1821' alt="work section">
     <br>
-    <img src='./.github/assets/3.png' width='1817' alt="contact section">
+    <img src='./.github/assets/3.png' width='1817' alt="tools section">
+      <br>
+    <img src='./.github/assets/4.png' width='1817' alt="contact section">
 </div>
 
 ---
