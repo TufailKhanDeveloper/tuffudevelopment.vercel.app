@@ -10,10 +10,10 @@ const syne = Syne({
 });
 
 export const metadata: Metadata = {
-    metadataBase: new URL("https://tuffudevelopment.vercel.com/"),
+    metadataBase: new URL("https://tuffudevelopment.vercel.app/"),
     title: "Tuffu Development",
     description:
-    "I'm Muhammad Tufail Khan, a Full Stack Blockchain Developer. I make cool Apps & Website, studies in Karachi, Pakistan at UBIT Karachi University.",
+    "I'm Muhammad Tufail Khan, a Full Stack Blockchain Developer. I make cool Apps & Websites, and studies in Karachi, Pakistan at UBIT Karachi University.",
     generator: "Next.js",
     applicationName: "Tuffu Development",
     keywords: [
@@ -49,7 +49,7 @@ export const metadata: Metadata = {
         title: "Tuffu Development",
         description:
       "I'm Muhammad Tufail Khan, a Full Stack Blockchain Developer. I make cool Apps & Website, studies in Karachi, Pakistan at UBIT Karachi University.",
-        url: "https://tuffudevelopment.vercel.com/",
+        url: "https://tuffudevelopment.vercel.app/",
         siteName: "Tuffu Development",
         images: [
             {
