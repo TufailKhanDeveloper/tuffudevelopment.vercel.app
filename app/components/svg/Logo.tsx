@@ -8,7 +8,7 @@ interface LogoProps {
 
 const Logo: React.FC<LogoProps> = ({ width = 1000, height = 1000 }) => {
     return (
-       <img src="Logo.png" alt="My Logo" width={1000} height={1000} />
+       <img src="Logo.png" alt="My Logo" width={500} height={500} />
     );
 };
 
