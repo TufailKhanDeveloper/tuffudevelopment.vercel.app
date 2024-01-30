@@ -5,7 +5,7 @@ It's my first portfolio website, crafted using Next.js, React, and Tailwind CSS.
 It serves as my portfolio.
 
 Check it out [here](https://tuffudevelopment.vercel.app/)
-
+ 
 ---
 
 ## Showcase
