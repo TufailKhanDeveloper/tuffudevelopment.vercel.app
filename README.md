@@ -1,6 +1,6 @@
-# Portfolio v5 ![dev](https://github.com/TufailKhanDeveloper/tuffudevelopment.vercel.app/actions/workflows/dev.yml/badge.svg) ![master](https://github.com/TufailKhanDeveloper/tuffudevelopment.vercel.app/actions/workflows/master.yml/badge.svg)
+# Tuffu Development - My Personal Portfolio ![dev](https://github.com/TufailKhanDeveloper/tuffudevelopment.vercel.app/actions/workflows/dev.yml/badge.svg) ![master](https://github.com/TufailKhanDeveloper/tuffudevelopment.vercel.app/actions/workflows/master.yml/badge.svg)
 
-This marks the fifth iteration of my portfolio website, crafted using Next.js, React, and Tailwind CSS.
+It's my first portfolio website, crafted using Next.js, React, and Tailwind CSS.
 
 It serves as my portfolio.
 
