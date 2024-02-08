@@ -78,20 +78,7 @@ const Contact = () => {
                                 charSpace={"mr-[0.01em]"}
                             />
                         </Link>
-                        <Link
-                            href="https://www.linkedin.com/in/muhammad-tufail-khan-229310265/A"
-                            target="_blank"
-                            aria-label="View Linkedin Profile"
-                        >
-                            <AnimatedTitle
-                                text={"LINKDIN"}
-                                className={
-                                    "text-[16px] font-bold text-[#e4ded7] sm:text-[20px] md:text-[16px] lg:text-[28px]"
-                                }
-                                wordSpace={"mr-[0.25em]"}
-                                charSpace={"mr-[0.01em]"}
-                            />
-                        </Link>
+                       
                     </div>
                 </div>
             </div>
